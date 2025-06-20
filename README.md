@@ -52,9 +52,10 @@
 
 ### 🐍 GitHub Contribution Snake (Dynamic)
 
-> ⚙️ تأكد من تفعيل GitHub Actions بملف snake.yml داخل المسار .github/workflows/
+<p align="center">
+  <img src="https://github.com/AliDev/AliDev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+</p>
 
-```yaml
 # .github/workflows/snake.yml
 
 name: Generate Snake Animation 🐍
