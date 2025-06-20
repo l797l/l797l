@@ -1,31 +1,31 @@
-<h1 align="center">👋 Hey there, I'm Ali Mahdi</h1>
-<h3 align="center" style="font-weight:700;color:#00bfff;">
-  Full-Stack Developer | Java & C# Enthusiast | HTML & CSS Fanatic
-</h3>
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Ali%20Mahdi&fontSize=50&fontColor=ffffff" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00bfff&width=600&lines=Crafting+Quality+Code.;Building+Real+World+Apps.;Always+Learning+And+Improving." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+C%23+%7C+HTML+%7C+CSS;Clean+Code+%7C+Real+World+Apps+Builder;Keep+Learning+%F0%9F%93%9A" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gslXmhCqVj7D4u0/giphy.gif" alt="Programming Animation" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
 ---
 
-### 💡 About Me
+## 👨‍💻 About Me
 
-- 🎓 Student at Al-Nahrain University
-- 👨‍💻 Skilled in: Java, C#, HTML, CSS, GitHub
-- 🌱 Learning Backend Development & Modern UI/UX  
-- 📫 Reach me:  
+- 🎓 I’m a Computer Science student at Al‑Nahrain University
+- 💻 Passionate about Java, C#, Web Design, Git & GitHub
+- 🔍 Exploring Backend Development and UI/UX best practices
+- 📫 Email Me:
   - 📧 Personal: ali.mahdi.67.99@gmail.com  
-  - 🏫 University: ali.abdulalmahdi.sci25@st.nahrainuniv.edu.iq  
-  - 🔗 LinkedIn: [ali-abdul-al-mahdi](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
+  - 🏫 University: ali.abdulalmahdi.sci25@st.nahrainuniv.edu.iq
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -37,50 +37,37 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliDev&show_icons=true&theme=dracula&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliDev&theme=dracula" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliDev&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=AliDev&theme=tokyonight" width="48%"/>
 </div>
 
-<div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDev&layout=compact&theme=dracula" width="45%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDev&layout=compact&theme=tokyonight" width="40%"/>
 </div>
 
 ---
 
-### 🐍 GitHub Contribution Snake (Dynamic)
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AliDev/AliDev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+  <img src="https://github.com/AliDev/AliDev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
-# .github/workflows/snake.yml
+---
 
-name: Generate Snake Animation 🐍
+## 🔗 Let's Connect!
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # يوميًا
-  workflow_dispatch:
+<p align="center">
+  <a href="mailto:ali.mahdi.67.99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AliDev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: AliDev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+---
 
-      - name: Push the changes
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+</div>
