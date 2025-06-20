@@ -1,14 +1,14 @@
-<!-- HEADER SECTION -->
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Ali%20Mahdi&fontSize=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+C%23+%7C+HTML+%7C+CSS;Clean+Code+%7C+Real+World+Apps+Builder;Keep+Learning+%F0%9F%93%9A" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+C%23+%7C+HTML+%7C+CSS;Clean+Code+%7C+Real+World+Apps+Builder;Always+Improving+My+Skills+🚀" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Dev Animation">
 </p>
 
 ---
@@ -16,12 +16,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 I’m a Computer Science student at Al‑Nahrain University
-- 💻 Passionate about Java, C#, Web Design, Git & GitHub
-- 🔍 Exploring Backend Development and UI/UX best practices
-- 📫 Email Me:
+- 💻 I specialize in Java, C#, Web Design, Git & GitHub
+- 🚀 Currently diving into Backend Development & UI/UX  
+- 📫 Contact Me:  
   - 📧 Personal: ali.mahdi.67.99@gmail.com  
-  - 🏫 University: ali.abdulalmahdi.sci25@st.nahrainuniv.edu.iq
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
+  - 🏫 University: ali.abdulalmahdi.sci25@st.nahrainuniv.edu.iq  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
 
 ---
 
@@ -50,14 +50,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/AliDev/AliDev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
----
-
 ## 🔗 Let's Connect!
 
 <p align="center">
@@ -68,6 +60,7 @@
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
 </div>
