@@ -39,15 +39,11 @@
 
 ---
 
-
-
-
 ## 🔗 Let's Connect!
 
 <p align="center">
   <a href="mailto:ali.mahdi.67.99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
   <a href="https://github.com/l797l"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
