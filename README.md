@@ -39,27 +39,15 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliDev&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=AliDev&theme=tokyonight" width="48%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDev&layout=compact&theme=tokyonight" width="40%"/>
-</div>
-
----
 
 ## 🔗 Let's Connect!
 
 <p align="center">
   <a href="mailto:ali.mahdi.67.99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/l797i">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+ 
   <a href="https://github.com/l797l"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
