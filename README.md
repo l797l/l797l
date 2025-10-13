@@ -33,11 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="100"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="75" alt="Git"/>
 <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" 
+  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAzMDAgMzAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxjaXJjbGUgY3g9IjE1MCIgY3k9IjE1MCIgcj0iMTQwIiBmaWxsPSIj000000Ii8+CiAgPHRleHQgeD0iMTUwIiB5PSIxNzAiIGZvbnQtc2l6ZT0iOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iU2Fucy1TZXJpZiI+TjwvdGV4dD4KPC9zdmc+" 
   alt="Next.js Logo" 
   width="50" 
   height="50"
-/></p>
+/>
 
 ---
 
