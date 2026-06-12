@@ -1,59 +1,90 @@
-<!-- HEADER -->
+<!-- Header -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Ali%20Mahdi&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100=00BFFF&height=200&section=header&text=Ali%20Mahdi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20@%20Al-Nahrain%20University&descAlignY=55&descSize=16" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+C%23+%7C+HTML+%7C+CSS;Clean+Code+%7C+Real+World+Apps+Builder;Always+Improving+My+Skills+🚀" alt="Typing SVG">
-</p>
+<!-- Typing SVG -->
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Dev Animation">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Next.js+%7C+React.js+Developer;ASP.NET+Core+%7C+FastAPI+Backend;Real-Time+Apps+with+WebSockets;Always+Building+Something+New+🚀" alt="Typing SVG" />
+</div>
 
----
+-----
 
 ## 👨‍💻 About Me
 
-- 🎓 I’m a Computer Science student at Al‑Nahrain University
-- 💻 I specialize in Java, C#, Web Design, Git & GitHub
-- 🚀 Currently diving into Backend Development & UI/UX  
-- 📫 Contact Me:  
-  - 📧 Personal: ali.mahdi.67.99@gmail.com  
-  - 🏫 University: ali.abdulalmahdi.sci25@st.nahrainuniv.edu.iq  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
+- 🎓 3rd-year CS student at Al-Nahrain University, Baghdad
+- ⚡ I build full-stack web apps — from UI to API to database
+- 🔭 Currently sharpening my skills in ASP.NET Core & SQL
+- 📱 Learning Flutter for mobile development
+- 💬 Ask me about Next.js, React, WebSockets, or REST APIs
+- 📫 Reach me: [ali.mahdi.67.99@gmail.com](mailto:ali.mahdi.67.99@gmail.com)
 
----
+-----
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="75" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="100"/> 
-<img 
-  <img 
-  src="https://cdn.worldvectorlogo.com/logos/next-js.svg" 
-  alt="Next.js Logo" 
-  width="50" 
-  height="75"
-/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+### Frontend
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend
 
-## 🔗 Let's Connect!
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-<p align="center">
-  <a href="mailto:ali.mahdi.67.99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/l797l"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### Database & Tools
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- FOOTER -->
+### Learning
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+-----
+
+## 🚀 Featured Projects
+
+### 🛒 [Iraq Market Platform](https://github.com/l797l)
+
+A full-stack e-commerce platform built for the Iraqi market. Features product listings, user authentication, and a responsive UI.  
+Stack: Next.js · ASP.NET Core · MySQL · Tailwind CSS
+
+### 💬 [Real-Time Chat Application](https://github.com/l797l)
+
+Live messaging app with real-time communication using WebSockets. Supports multiple rooms and instant message delivery.  
+Stack: React · Express.js · WebSockets · MySQL
+
+### 🎓 [University Event Website](https://github.com/l797l)
+
+Platform for managing and discovering university events at Al-Nahrain. Clean UI with event details and registration flow.  
+Stack: Next.js · FastAPI · Tailwind CSS
+
+-----
+
+## 🔗 Let’s Connect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.mahdi.67.99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l797l)
+
+</div>
+
+-----
+
+<!-- Footer -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100=0047AB&height=120&section=footer" />
 </div>
