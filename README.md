@@ -10,7 +10,7 @@
 <div align="center">
   
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.mahdi.67.99@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdul-al-mahdi-a5b9a2354)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/l797i)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/l797l)
   ![Profile Views](https://komarev.com/ghpvc/?username=l797l&color=0047AB&style=flat-square&label=Profile+Views)
 
