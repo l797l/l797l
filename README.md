@@ -45,7 +45,7 @@ fun_fact: I write clean architecture code before I write clean room code
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js" />
 
 **Database & Tools**  
-<img src="https://skillicons.dev/icons?i=mysql,mssql,git,github,docker,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman" />
 
 **Currently Learning**  
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
