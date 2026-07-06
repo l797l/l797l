@@ -105,12 +105,17 @@ Event management platform for Al-Nahrain University with registration flow.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l797l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l797l&theme=tokyonight&hide_border=true" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=l797l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=l797l&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l797l&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l797l&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
