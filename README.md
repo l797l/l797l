@@ -104,9 +104,6 @@ Event management platform for Al-Nahrain University with registration flow.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l797l&theme=github_dark" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l797l&theme=github_dark" width="48%" />
