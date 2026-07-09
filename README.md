@@ -42,7 +42,7 @@ fun_fact: I write clean architecture code before I write clean room code
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi,express,nodejs" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js,ts" />
 
 **Database & Tools**  
 <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman" />
